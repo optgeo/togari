@@ -3,6 +3,9 @@
 
 MapLibre web app for Shizuoka ZFXY voxel tiles (blocks)
 
+## Demo
+https://optgeo.github.io/togari
+
 ## about social preview image
 https://www.metmuseum.org/art/collection/search/359089
 
